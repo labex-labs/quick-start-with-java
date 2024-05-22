@@ -24,4 +24,3 @@ Java is one of the most popular and powerful programming languages. It will walk
 |      11 | 📖 Polymorphism And Encapsulation             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178551'>Start Lab</a> |
 |      12 | 📖 Arranging Classes by Functionality         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178550'>Start Lab</a> |
 
-> Updated at: 2024-05-21T05:52:39Z
