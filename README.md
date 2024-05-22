@@ -4,7 +4,7 @@
 
 Java is one of the most popular and powerful programming languages. It will walk you through the basic need-to-knows about Java. If you're new to this language or you want to refresh your memory, this is a great place to start. After learning this course, you will be able to learn to build advanced Java projects. Come on!
 
-![Java](https://img.shields.io/badge/Java-whitesmoke?style=for-the-badge&logo=java&link=https%3A%2F%2Flabex.io%2Fskilltrees)
+![Java](https://img.shields.io/badge/Java-whitesmoke?style=for-the-badge&logo=java)
 
 
 ## Scenarios
