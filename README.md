@@ -9,8 +9,8 @@ Java is one of the most popular and powerful programming languages. It will walk
 
 ## Scenarios
 
-|   Index | Name                                          | Difficulty   | URL                                                                  |
-|---------|-----------------------------------------------|--------------|----------------------------------------------------------------------|
+|   Index | Name                                         | Difficulty   | URL                                                                  |
+|---------|----------------------------------------------|--------------|----------------------------------------------------------------------|
 |      01 | 📖 Introductory Java Programming Fundamentals | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178546'>Start Lab</a> |
 |      02 | 📖 Variables And Operators                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178553'>Start Lab</a> |
 |      03 | 📖 Java Conditional Expressions Fundamentals  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178545'>Start Lab</a> |
