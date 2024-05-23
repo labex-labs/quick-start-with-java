@@ -9,7 +9,7 @@ Java is one of the most popular and powerful programming languages. It will walk
 
 ## Scenarios
 
-|   Index | Name                                         | Difficulty   | URL                                                                  |
+|   Index | Name                                         | Difficulty   | Practice                                                             |
 |---------|----------------------------------------------|--------------|----------------------------------------------------------------------|
 |      01 | 📖 Introductory Java Programming Fundamentals | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178546'>Start Lab</a> |
 |      02 | 📖 Variables And Operators                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178553'>Start Lab</a> |
@@ -23,4 +23,9 @@ Java is one of the most popular and powerful programming languages. It will walk
 |      10 | 📖 Abstraction And Interface                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178542'>Start Lab</a> |
 |      11 | 📖 Polymorphism And Encapsulation             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178551'>Start Lab</a> |
 |      12 | 📖 Arranging Classes by Functionality         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178550'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
 
