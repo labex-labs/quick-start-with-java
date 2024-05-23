@@ -26,6 +26,7 @@ Java is one of the most popular and powerful programming languages. It will walk
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Java Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Java Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
 
