@@ -1,6 +1,6 @@
 # Quick Start with Java
 
-![Quick Start with Java](https://cover-creator.labex.io/quick-start-with-java.png)
+![Quick Start with Java](https://cover-creator.appbot.io/quick-start-with-java.png)
 
 Java is one of the most popular and powerful programming languages. It will walk you through the basic need-to-knows about Java. If you're new to this language or you want to refresh your memory, this is a great place to start. After learning this course, you will be able to learn to build advanced Java projects. Come on!
 
