@@ -25,20 +25,21 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                          | Difficulty   | Practice                                                                                                                  |
-|---------|-----------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Introductory Java Programming Fundamentals | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-introductory-java-programming-fundamentals-178546'>Start Lab</a> |
-|      02 | 📖 Variables and Operators                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-variables-and-operators-178553'>Start Lab</a>                    |
-|      03 | 📖 Java Conditional Expressions Fundamentals  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-conditional-expressions-fundamentals-178545'>Start Lab</a>  |
-|      04 | 📖 Recursion and Loops                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-recursion-and-loops-178552'>Start Lab</a>                        |
-|      05 | 📖 Methods & Parameters and Object            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-methods-parameters-and-object-178547'>Start Lab</a>              |
-|      06 | 📖 Number, String and Array                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-number-string-and-array-178548'>Start Lab</a>                    |
-|      07 | 📖 Class and Object                           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-class-and-object-178544'>Start Lab</a>                           |
-|      08 | 📖 Access Modifiers and Inheritance           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-access-modifiers-and-inheritance-178543'>Start Lab</a>           |
-|      09 | 📖 Overloading and Overriding                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-overloading-and-overriding-178549'>Start Lab</a>                 |
-|      10 | 📖 Abstraction and Interface                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-abstraction-and-interface-178542'>Start Lab</a>                  |
-|      11 | 📖 Polymorphism and Encapsulation             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-polymorphism-and-encapsulation-178551'>Start Lab</a>             |
-|      12 | 📖 Arranging Classes by Functionality         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-arranging-classes-by-functionality-178550'>Start Lab</a>         |
+|   Index | Name                                        | Difficulty   | Practice                                                                                                                 |
+|---------|---------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Introduction to Java Programming          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-introduction-to-java-programming-178546'>Start Lab</a>          |
+|      02 | 🎯 Simple Java Print Statement               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/simple-java-print-statement-391714'>Start Challenge</a>              |
+|      03 | 📖 Variables and Operators in Java           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-variables-and-operators-in-java-178553'>Start Lab</a>           |
+|      04 | 📖 Java Conditional Expressions Fundamentals | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-conditional-expressions-fundamentals-178545'>Start Lab</a> |
+|      05 | 📖 Recursion and Loops                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-recursion-and-loops-178552'>Start Lab</a>                       |
+|      06 | 📖 Methods & Parameters and Object           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-methods-parameters-and-object-178547'>Start Lab</a>             |
+|      07 | 📖 Number, String and Array                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-number-string-and-array-178548'>Start Lab</a>                   |
+|      08 | 📖 Class and Object                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-class-and-object-178544'>Start Lab</a>                          |
+|      09 | 📖 Access Modifiers and Inheritance          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-access-modifiers-and-inheritance-178543'>Start Lab</a>          |
+|      10 | 📖 Overloading and Overriding                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-overloading-and-overriding-178549'>Start Lab</a>                |
+|      11 | 📖 Abstraction and Interface                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-abstraction-and-interface-178542'>Start Lab</a>                 |
+|      12 | 📖 Polymorphism and Encapsulation            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-polymorphism-and-encapsulation-178551'>Start Lab</a>            |
+|      13 | 📖 Arranging Classes by Functionality        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-arranging-classes-by-functionality-178550'>Start Lab</a>        |
 
 ## More
 
