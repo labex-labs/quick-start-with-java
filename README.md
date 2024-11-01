@@ -25,21 +25,22 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                        | Difficulty   | Practice                                                                                                                 |
-|---------|---------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Introduction to Java Programming          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-introduction-to-java-programming-178546'>Start Lab</a>          |
-|      02 | 🎯 Simple Java Print Statement               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/simple-java-print-statement-391714'>Start Challenge</a>              |
-|      03 | 📖 Variables and Operators in Java           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-variables-and-operators-in-java-178553'>Start Lab</a>           |
-|      04 | 📖 Java Conditional Expressions Fundamentals | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-conditional-expressions-fundamentals-178545'>Start Lab</a> |
-|      05 | 📖 Recursion and Loops                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-recursion-and-loops-178552'>Start Lab</a>                       |
-|      06 | 📖 Methods & Parameters and Object           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-methods-parameters-and-object-178547'>Start Lab</a>             |
-|      07 | 📖 Number, String and Array                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-number-string-and-array-178548'>Start Lab</a>                   |
-|      08 | 📖 Class and Object                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-class-and-object-178544'>Start Lab</a>                          |
-|      09 | 📖 Access Modifiers and Inheritance          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-access-modifiers-and-inheritance-178543'>Start Lab</a>          |
-|      10 | 📖 Overloading and Overriding                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-overloading-and-overriding-178549'>Start Lab</a>                |
-|      11 | 📖 Abstraction and Interface                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-abstraction-and-interface-178542'>Start Lab</a>                 |
-|      12 | 📖 Polymorphism and Encapsulation            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-polymorphism-and-encapsulation-178551'>Start Lab</a>            |
-|      13 | 📖 Arranging Classes by Functionality        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-arranging-classes-by-functionality-178550'>Start Lab</a>        |
+|   Index | Name                                                 | Difficulty   | Practice                                                                                                                          |
+|---------|------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Your First Java Lab                                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-your-first-java-lab-411751'>Start Lab</a>                                |
+|      02 | 🎯 Java Scanner Input Challenge                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/java-java-scanner-input-challenge-413835'>Start Challenge</a>                      |
+|      03 | 📖 Java Data Types and Basic Operations               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-data-types-and-basic-operations-413744'>Start Lab</a>               |
+|      04 | 🎯 Java Fahrenheit to Celsius Conversion              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/java-java-fahrenheit-to-celsius-conversion-413851'>Start Challenge</a>             |
+|      05 | 📖 Java Control Flow: Conditionals and Loops          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-control-flow-conditionals-and-loops-413751'>Start Lab</a>           |
+|      06 | 🎯 Java FizzBuzz Challenge                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/java-java-fizzbuzz-challenge-413852'>Start Challenge</a>                           |
+|      07 | 📖 Java Methods and Basic Object-Oriented Programming | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-methods-and-basic-object-oriented-programming-413809'>Start Lab</a> |
+|      08 | 🎯 Java Book Class Challenge                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/java-java-book-class-challenge-413850'>Start Challenge</a>                         |
+|      09 | 📖 Java Arrays and ArrayLists                         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-arrays-and-arraylists-413820'>Start Lab</a>                         |
+|      10 | 🎯 Java ArrayList Shopping Cart Challenge             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/java-java-arraylist-shopping-cart-challenge-413849'>Start Challenge</a>            |
+|      11 | 📖 Java Inheritance and Polymorphism                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-inheritance-and-polymorphism-413825'>Start Lab</a>                  |
+|      12 | 🎯 Java Vehicle Inheritance Challenge                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/java-java-vehicle-inheritance-challenge-413854'>Start Challenge</a>                |
+|      13 | 📖 Java Exception Handling                            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/java-java-exception-handling-413830'>Start Lab</a>                            |
+|      14 | 🎯 Java Age Validator Exception Challenge             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/java-java-age-validator-exception-challenge-413848'>Start Challenge</a>            |
 
 ## More
 
