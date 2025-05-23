@@ -31,24 +31,24 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                                     | 難易度   | 練習                                                                                                                                  |
 |----------------|----------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 あなたの最初の Java 実験                              | ★★★      | <a target='_blank' href='https://labex.io/ja/tutorials/java-your-first-java-lab-411751'>ラボを開始</a>                                |
-|             02 | 🎯 Java Scanner 入力チャレンジ                           | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-scanner-input-challenge-413835'>チャレンジを開始</a>                 |
-|             03 | 📖 Java のデータ型と基本演算                             | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-data-types-and-basic-operations-413744'>ラボを開始</a>               |
-|             04 | 🎯 Java での華氏から摂氏への温度変換                     | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-fahrenheit-to-celsius-conversion-413851'>チャレンジを開始</a>        |
-|             05 | 📖 Java 制御フロー：条件分岐とループ                     | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-control-flow-conditionals-and-loops-413751'>ラボを開始</a>           |
-|             06 | 🎯 Java の FizzBuzz チャレンジ                           | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-fizzbuzz-challenge-413852'>チャレンジを開始</a>                      |
-|             07 | 📖 Java メソッドと基本的なオブジェクト指向プログラミング | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-methods-and-basic-object-oriented-programming-413809'>ラボを開始</a> |
-|             08 | 🎯 Java 書籍クラスチャレンジ                             | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-book-class-challenge-413850'>チャレンジを開始</a>                    |
-|             09 | 📖 Java の配列と ArrayList                               | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-arrays-and-arraylists-413820'>ラボを開始</a>                         |
-|             10 | 🎯 Java ArrayList ショッピングカートチャレンジ           | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-arraylist-shopping-cart-challenge-413849'>チャレンジを開始</a>       |
-|             11 | 📖 Java の継承とポリモーフィズム                         | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-inheritance-and-polymorphism-413825'>ラボを開始</a>                  |
-|             12 | 🎯 Java 車両継承チャレンジ                               | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-vehicle-inheritance-challenge-413854'>チャレンジを開始</a>           |
-|             13 | 📖 Java の例外処理                                       | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-exception-handling-413830'>ラボを開始</a>                            |
-|             14 | 🎯 Java 年齢バリデーター例外チャレンジ                   | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-age-validator-exception-challenge-413848'>チャレンジを開始</a>       |
+|             01 | 📖 あなたの最初の Java 実験                              | 上級     | <a target='_blank' href='https://labex.io/ja/tutorials/java-your-first-java-lab-411751'>ラボを開始</a>                                |
+|             02 | 🎯 Java Scanner 入力チャレンジ                           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-scanner-input-challenge-413835'>チャレンジを開始</a>                 |
+|             03 | 📖 Java のデータ型と基本演算                             | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-data-types-and-basic-operations-413744'>ラボを開始</a>               |
+|             04 | 🎯 Java での華氏から摂氏への温度変換                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-fahrenheit-to-celsius-conversion-413851'>チャレンジを開始</a>        |
+|             05 | 📖 Java 制御フロー：条件分岐とループ                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-control-flow-conditionals-and-loops-413751'>ラボを開始</a>           |
+|             06 | 🎯 Java の FizzBuzz チャレンジ                           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-fizzbuzz-challenge-413852'>チャレンジを開始</a>                      |
+|             07 | 📖 Java メソッドと基本的なオブジェクト指向プログラミング | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-methods-and-basic-object-oriented-programming-413809'>ラボを開始</a> |
+|             08 | 🎯 Java 書籍クラスチャレンジ                             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-book-class-challenge-413850'>チャレンジを開始</a>                    |
+|             09 | 📖 Java の配列と ArrayList                               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-arrays-and-arraylists-413820'>ラボを開始</a>                         |
+|             10 | 🎯 Java ArrayList ショッピングカートチャレンジ           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-arraylist-shopping-cart-challenge-413849'>チャレンジを開始</a>       |
+|             11 | 📖 Java の継承とポリモーフィズム                         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-inheritance-and-polymorphism-413825'>ラボを開始</a>                  |
+|             12 | 🎯 Java 車両継承チャレンジ                               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-vehicle-inheritance-challenge-413854'>チャレンジを開始</a>           |
+|             13 | 📖 Java の例外処理                                       | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-exception-handling-413830'>ラボを開始</a>                            |
+|             14 | 🎯 Java 年齢バリデーター例外チャレンジ                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/java-java-age-validator-exception-challenge-413848'>チャレンジを開始</a>       |
 
 ## その他
 
-- 🔗 [Java Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Java Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
+- 🔗 [Java プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Java プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Java 無料チュートリアル](https://github.com/labex-labs/java-free-tutorials)
 
