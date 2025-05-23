@@ -31,24 +31,24 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                                        | 난이도   | 연습                                                                                                                                 |
 |----------|---------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 첫 번째 Java 랩                          | ★★★      | <a target='_blank' href='https://labex.io/ko/tutorials/java-your-first-java-lab-411751'>실습 시작</a>                                |
-|       02 | 🎯 Java Scanner 입력 챌린지                 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-scanner-input-challenge-413835'>도전 시작</a>                       |
-|       03 | 📖 Java 데이터 타입 및 기본 연산            | ★★☆      | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-data-types-and-basic-operations-413744'>실습 시작</a>               |
-|       04 | 🎯 Java 화씨 - 섭씨 변환                    | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-fahrenheit-to-celsius-conversion-413851'>도전 시작</a>              |
-|       05 | 📖 Java 제어 흐름: 조건문과 반복문          | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-control-flow-conditionals-and-loops-413751'>실습 시작</a>           |
-|       06 | 🎯 Java FizzBuzz 챌린지                     | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-fizzbuzz-challenge-413852'>도전 시작</a>                            |
-|       07 | 📖 Java 메서드 및 객체 지향 프로그래밍 기초 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-methods-and-basic-object-oriented-programming-413809'>실습 시작</a> |
-|       08 | 🎯 Java Book 클래스 챌린지                  | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-book-class-challenge-413850'>도전 시작</a>                          |
-|       09 | 📖 Java 배열과 ArrayList                    | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-arrays-and-arraylists-413820'>실습 시작</a>                         |
-|       10 | 🎯 Java ArrayList 장바구니 챌린지           | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-arraylist-shopping-cart-challenge-413849'>도전 시작</a>             |
-|       11 | 📖 Java 상속과 다형성                       | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-inheritance-and-polymorphism-413825'>실습 시작</a>                  |
-|       12 | 🎯 Java 차량 상속 챌린지                    | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-vehicle-inheritance-challenge-413854'>도전 시작</a>                 |
-|       13 | 📖 Java 예외 처리                           | ★★☆      | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-exception-handling-413830'>실습 시작</a>                            |
-|       14 | 🎯 Java 연령 검증기 예외 챌린지             | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-age-validator-exception-challenge-413848'>도전 시작</a>             |
+|       01 | 📖 첫 번째 Java 랩                          | 고급     | <a target='_blank' href='https://labex.io/ko/tutorials/java-your-first-java-lab-411751'>실습 시작</a>                                |
+|       02 | 🎯 Java Scanner 입력 챌린지                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-scanner-input-challenge-413835'>도전 시작</a>                       |
+|       03 | 📖 Java 데이터 타입 및 기본 연산            | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-data-types-and-basic-operations-413744'>실습 시작</a>               |
+|       04 | 🎯 Java 화씨 - 섭씨 변환                    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-fahrenheit-to-celsius-conversion-413851'>도전 시작</a>              |
+|       05 | 📖 Java 제어 흐름: 조건문과 반복문          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-control-flow-conditionals-and-loops-413751'>실습 시작</a>           |
+|       06 | 🎯 Java FizzBuzz 챌린지                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-fizzbuzz-challenge-413852'>도전 시작</a>                            |
+|       07 | 📖 Java 메서드 및 객체 지향 프로그래밍 기초 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-methods-and-basic-object-oriented-programming-413809'>실습 시작</a> |
+|       08 | 🎯 Java Book 클래스 챌린지                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-book-class-challenge-413850'>도전 시작</a>                          |
+|       09 | 📖 Java 배열과 ArrayList                    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-arrays-and-arraylists-413820'>실습 시작</a>                         |
+|       10 | 🎯 Java ArrayList 장바구니 챌린지           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-arraylist-shopping-cart-challenge-413849'>도전 시작</a>             |
+|       11 | 📖 Java 상속과 다형성                       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-inheritance-and-polymorphism-413825'>실습 시작</a>                  |
+|       12 | 🎯 Java 차량 상속 챌린지                    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-vehicle-inheritance-challenge-413854'>도전 시작</a>                 |
+|       13 | 📖 Java 예외 처리                           | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-exception-handling-413830'>실습 시작</a>                            |
+|       14 | 🎯 Java 연령 검증기 예외 챌린지             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/java-java-age-validator-exception-challenge-413848'>도전 시작</a>             |
 
 ## 더 보기
 
-- 🔗 [Java Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Java Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
+- 🔗 [Java 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Java 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Java 무료 튜토리얼](https://github.com/labex-labs/java-free-tutorials)
 
