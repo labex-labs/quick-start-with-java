@@ -29,26 +29,26 @@ En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 ## Exercices
 
-|   Index | Nom                                                      | Difficulté   | Pratique                                                                                                                                    |
-|---------|----------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Votre premier laboratoire Java                        | ★★★          | <a target='_blank' href='https://labex.io/fr/tutorials/java-your-first-java-lab-411751'>Commencer le Lab</a>                                |
-|      02 | 🎯 Défi d'entrée avec le Scanner en Java                 | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-scanner-input-challenge-413835'>Commencer le Défi</a>                      |
-|      03 | 📖 Types de données et opérations de base en Java        | ★★☆          | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-data-types-and-basic-operations-413744'>Commencer le Lab</a>               |
-|      04 | 🎯 Conversion de température Java : de Fahrenheit à C... | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-fahrenheit-to-celsius-conversion-413851'>Commencer le Défi</a>             |
-|      05 | 📖 Flux de contrôle Java : Instructions conditionnell... | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-control-flow-conditionals-and-loops-413751'>Commencer le Lab</a>           |
-|      06 | 🎯 Défi Java FizzBuzz                                    | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-fizzbuzz-challenge-413852'>Commencer le Défi</a>                           |
-|      07 | 📖 Méthodes Java et programmation orientée objet de b... | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-methods-and-basic-object-oriented-programming-413809'>Commencer le Lab</a> |
-|      08 | 🎯 Défi de la classe Book en Java                        | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-book-class-challenge-413850'>Commencer le Défi</a>                         |
-|      09 | 📖 Tableaux (Arrays) et listes dynamiques (ArrayLists... | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-arrays-and-arraylists-413820'>Commencer le Lab</a>                         |
-|      10 | 🎯 Défi du panier d'achat avec Java ArrayList            | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-arraylist-shopping-cart-challenge-413849'>Commencer le Défi</a>            |
-|      11 | 📖 Héritage et polymorphisme en Java                     | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-inheritance-and-polymorphism-413825'>Commencer le Lab</a>                  |
-|      12 | 🎯 Défi d'héritage de véhicules en Java                  | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-vehicle-inheritance-challenge-413854'>Commencer le Défi</a>                |
-|      13 | 📖 Gestion des exceptions en Java                        | ★★☆          | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-exception-handling-413830'>Commencer le Lab</a>                            |
-|      14 | 🎯 Défi d'exception du validateur d'âge en Java          | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-age-validator-exception-challenge-413848'>Commencer le Défi</a>            |
+|   Index | Nom                                                      | Difficulté    | Pratique                                                                                                                                    |
+|---------|----------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Votre premier laboratoire Java                        | Avancé        | <a target='_blank' href='https://labex.io/fr/tutorials/java-your-first-java-lab-411751'>Commencer le Lab</a>                                |
+|      02 | 🎯 Défi d'entrée avec le Scanner en Java                 | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-scanner-input-challenge-413835'>Commencer le Défi</a>                      |
+|      03 | 📖 Types de données et opérations de base en Java        | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-data-types-and-basic-operations-413744'>Commencer le Lab</a>               |
+|      04 | 🎯 Conversion de température Java : de Fahrenheit à C... | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-fahrenheit-to-celsius-conversion-413851'>Commencer le Défi</a>             |
+|      05 | 📖 Flux de contrôle Java : Instructions conditionnell... | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-control-flow-conditionals-and-loops-413751'>Commencer le Lab</a>           |
+|      06 | 🎯 Défi Java FizzBuzz                                    | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-fizzbuzz-challenge-413852'>Commencer le Défi</a>                           |
+|      07 | 📖 Méthodes Java et programmation orientée objet de b... | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-methods-and-basic-object-oriented-programming-413809'>Commencer le Lab</a> |
+|      08 | 🎯 Défi de la classe Book en Java                        | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-book-class-challenge-413850'>Commencer le Défi</a>                         |
+|      09 | 📖 Tableaux (Arrays) et listes dynamiques (ArrayLists... | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-arrays-and-arraylists-413820'>Commencer le Lab</a>                         |
+|      10 | 🎯 Défi du panier d'achat avec Java ArrayList            | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-arraylist-shopping-cart-challenge-413849'>Commencer le Défi</a>            |
+|      11 | 📖 Héritage et polymorphisme en Java                     | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-inheritance-and-polymorphism-413825'>Commencer le Lab</a>                  |
+|      12 | 🎯 Défi d'héritage de véhicules en Java                  | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-vehicle-inheritance-challenge-413854'>Commencer le Défi</a>                |
+|      13 | 📖 Gestion des exceptions en Java                        | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-exception-handling-413830'>Commencer le Lab</a>                            |
+|      14 | 🎯 Défi d'exception du validateur d'âge en Java          | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/java-java-age-validator-exception-challenge-413848'>Commencer le Défi</a>            |
 
 ## Plus
 
-- 🔗 [Java Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Java Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
+- 🔗 [Java Cours de Programmation](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Java Projets de Programmation](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Java Tutoriels Gratuits](https://github.com/labex-labs/java-free-tutorials)
 
